@@ -1,5 +1,5 @@
 # CodeX
-Insights to the Marketing team in the food and beverage industry.
+_Insights to the Marketing team in the food and beverage industry._
 
 CodeX is a German beverage company aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
